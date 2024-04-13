@@ -3,4 +3,3 @@
   ___
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20000000&lines=About+me)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%20000000&lines=About+me)](https://git.io/typing-svg)
