@@ -4,11 +4,14 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&random=false&width=435&lines=About+me" alt="TypingSVG"/></a>
 
+
+
 - Я Фронтенд-разработчица :woman:
 - Мне нравится создавать что-то новое и видеть результат своей работы.
 - Прошла курс «Веб-разработчик» в Яндекс практикуме. Работаю над pet-проектами и улучшаю навыки посредством изучения информации в WebReference и Codewars. Планирую прохождение дополнительных курсов на Scrimba и Udacity.
 - Активно ищу работу.
 
+  ___
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&random=false&width=435&lines=Tech+stack" alt="TypingSVG"/></a>  
 
