@@ -2,4 +2,4 @@
   
   ___
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&random=false&width=435&lines=About+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&random=false&width=435&lines=About+me+:woman:" alt="Typing SVG" /></a>
